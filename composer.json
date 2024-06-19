@@ -7,14 +7,14 @@
         }
     },
     "require": {
-        "league/flysystem": "~1.0",
+        "league/flysystem": "^3.8",
         "psr/cache": "^1.0.0"
     },
     "require-dev": {
         "phpspec/phpspec": "^3.4",
         "phpunit/phpunit": "^5.7",
         "mockery/mockery": "~0.9",
-        "predis/predis": "~1.0",
+        "predis/predis": "^1.1",
         "tedivm/stash": "~0.12"
     },
     "suggest": {
